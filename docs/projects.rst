@@ -12,7 +12,7 @@ As it gets closer to the sprint, we will ensure that all participants will have
 access to all the notes linked below.
 
 C-API/runtime/subinterpreters
----------------------
+-----------------------------
 
 - Joannah Nanjekye
 - Pablo Galindo Salgado
@@ -48,7 +48,7 @@ stdlib modules
 `stdlib modules Notes <https://docs.google.com/document/d/1a9zVOF7W8OjFjYvnZ9gu7menwARXPElm8nTJfyvi_vE/edit?usp=sharing>`_.
 
 Parser improvements
---------------------
+-------------------
 
 - Pablo Galindo Salgado
 - Lysandros Nikolaou
